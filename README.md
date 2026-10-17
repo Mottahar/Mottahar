@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:Motaharcod@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
@@ -90,7 +90,7 @@ I'm a developer passionate about learning new technologies, strengthening my pro
     <img src="https://img.shields.io/badge/Telegram-@HMottahar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:Motaharcod@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Motaharcod%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-Motaharcod%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
