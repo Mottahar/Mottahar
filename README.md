@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://x.com/Bat_JS">
-    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Follow Me">
   </a>
 </p>
 
@@ -32,9 +32,6 @@
 <samp>
 I'm a developer passionate about learning new technologies, strengthening my programming skills, and building practical projects that solve real-world problems.
 </samp>
-
-<br><br>
-
 <samp>
 🌱 <strong>Currently:</strong> Learning and improving my development skills<br>
 💻 <strong>Interests:</strong> Web development and modern technologies<br>
@@ -95,7 +92,7 @@ I'm a developer passionate about learning new technologies, strengthening my pro
     <img src="https://img.shields.io/badge/Gmail-Motaharcod%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://x.com/Bat_JS">
-    <img src="https://img.shields.io/badge/X-@Bat__JS-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Follow Me">
   </a>
 </p>
 
