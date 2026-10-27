@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <samp>Learning, Building & Growing 🚀</samp>
   <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22" alt="Animated Earth">
@@ -18,6 +17,9 @@
   </a>
   <a href="mailto:Motaharcod@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://x.com/Bat_JS">
+    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
 </p>
 
@@ -91,6 +93,9 @@ I'm a developer passionate about learning new technologies, strengthening my pro
   </a>
   <a href="mailto:Motaharcod@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Motaharcod%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://x.com/Bat_JS">
+    <img src="https://img.shields.io/badge/X-@Bat__JS-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
 </p>
 
