@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://x.com/Bat_JS">
-    <img src="https://img.shields.io/badge/X-Connect%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Connect on X">
+    <img src="https://img.shields.io/badge/X-Connect%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Connect on">
   </a>
 </p>
 
